@@ -1,0 +1,5 @@
+{
+  "name": "Learn.skript",
+  "description": "A gamified React and TypeScript learning platform inspired by Duolingo. Master modern web development concepts through bite-sized interactive lessons, earn XP, and keep your streak alive.",
+  "requestFramePermissions": []
+}
